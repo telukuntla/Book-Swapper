@@ -1,7 +1,7 @@
 # Book-Swapper
 Book Exchange Platform / Web Application
 
-1.Introduction:
+1. Introduction:
 Target Users for this application are Book reading Enthusiasts. These Enthusiasts has to spend lot of money purchasing books, as scope for knowledge gaining though book reading is end-less. One way these enthusiasts can save money is by exchanging books with their neighbors. But this methodology has limitations. These limitations include but not limited to-
 1) neighbors may not have a book that interests a Book Reader.
 2) neighbors might not be willing to swap their Books.
