@@ -15,7 +15,7 @@ Further description in this user manual assists users in getting familiar with t
 This book status corresponds that current item(book) is available for swap with the new item(book), which is available with the other user(stranger).
 #### pending: 
 This Book Status corresponds that current book has an offer pending for swap with other user’s book (stranger).
-#### this item was swapped : This book status corresponds that current book in question is already swapped with a book that was present with the other user, which is now available with current user.
+#### This item was swapped : This book status corresponds that current book in question is already swapped with a book that was present with the other user, which is now available with current user.
 ### User Rating:
 - Each registered user will be able to see his/her average rating, given by other users. This rating will be shown on registered user’s dashboard.
 Rating:
