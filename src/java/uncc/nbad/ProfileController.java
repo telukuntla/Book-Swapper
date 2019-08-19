@@ -9,7 +9,7 @@
     import javax.servlet.http.HttpServletRequest;
     import javax.servlet.http.HttpServletResponse;
     import javax.servlet.http.HttpSession;
-import org.mindrot.jbcrypt.BCrypt;
+    import org.mindrot.jbcrypt.BCrypt;
     import org.owasp.esapi.ESAPI;
     import org.owasp.esapi.errors.IntrusionException;
     import org.owasp.esapi.errors.ValidationException;
